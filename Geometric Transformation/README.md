@@ -4,7 +4,7 @@
 - Rotation
 - Shear/Affine
 - Projection
-
+<br>
 Original Image:
 <img src="Figure 1.png" align="middle">
 
