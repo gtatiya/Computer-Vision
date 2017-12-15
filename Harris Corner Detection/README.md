@@ -11,9 +11,6 @@ Original Image:<br>
 Harris Corner Detection:<br>
 <img src="Cameraman_Harris_corner_detection.png" align="middle">
 
-Blurring the image using Gaussian kernel:<br>
-<img src="2.GaussianBlurr.png" align="middle">
-
 Original Image:<br>
 <img src="Lenna.jpg" align="middle">
 
