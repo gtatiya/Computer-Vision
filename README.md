@@ -1,5 +1,10 @@
 # Computer Vision Projects:
 
+## Harris Corner Detection
+- Compute the intensity gradient in horizontal and vertical direction using Sobel Filter
+- Gaussian smoothing
+- Harris Corner Detection
+
 ## Gaussian and Laplacian Pyramids
 - Implementation of Gaussian kernel
 - Zero padding border policy
