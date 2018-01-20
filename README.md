@@ -1,5 +1,7 @@
 # Computer Vision Projects:
 
+## Train convolutional neural networks (CNNs) to classify 10 classes of images (CIFAR-10) using PyTorch.
+
 ## Harris Corner Detection
 - Compute the intensity gradient in horizontal and vertical direction using Sobel Filter
 - Gaussian smoothing

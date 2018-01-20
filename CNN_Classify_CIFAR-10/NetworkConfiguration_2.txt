@@ -1,0 +1,28 @@
+[1, 2000] loss: 2.28841612166 --> Time: 0.034658640292 hr
+[1, 4000] loss: 1.9793563478 --> Time: 0.0750629088614 hr
+[1, 6000] loss: 1.74778523356 --> Time: 0.11376695719 hr
+[1, 8000] loss: 1.59916297479 --> Time: 0.154127342237 hr
+[1, 10000] loss: 1.50352229283 --> Time: 0.191966116958 hr
+[1, 12000] loss: 1.4278765215 --> Time: 0.232617370552 hr
+[2, 2000] loss: 1.36838815866 --> Time: 0.273032503327 hr
+[2, 4000] loss: 1.3106079522 --> Time: 0.304665421645 hr
+[2, 6000] loss: 1.27625067654 --> Time: 0.339356305533 hr
+[2, 8000] loss: 1.24248120394 --> Time: 0.373921771116 hr
+[2, 10000] loss: 1.22327847913 --> Time: 0.409304594729 hr
+[2, 12000] loss: 1.18598028869 --> Time: 0.447962796953 hr
+
+
+
+ Accuracy of the network on the 10000 test images: 59
+
+
+Accuracy of plane 41.4
+Accuracy of car 72.8
+Accuracy of bird 40.8
+Accuracy of cat 47.3
+Accuracy of deer 54.6
+Accuracy of dog 61.7
+Accuracy of frog 65.5
+Accuracy of horse 54.1
+Accuracy of ship 75.1
+Accuracy of truck 78.8
